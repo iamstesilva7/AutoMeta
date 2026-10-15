@@ -1,0 +1,4 @@
+AutoMeta Web — demonstração estática para Netlify.
+Suba os arquivos da pasta na raiz do repositório GitHub e conecte o repositório à Netlify (publish directory: .).
+Esta versão NÃO envia e-mails, NÃO lê o conteúdo do Excel e NÃO mantém histórico compartilhado. Esses recursos exigem backend, banco persistente e autenticação Microsoft Entra ID + Graph com autorização da TI.
+O AutoMeta local anterior continua separado e funcional via INICIAR.bat.
